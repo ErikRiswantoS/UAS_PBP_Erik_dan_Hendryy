@@ -8,9 +8,9 @@ Request Body :
 
 ```json
 {
-  "username": "ivi",
+  "username": "erik",
   "password": "rahasia",
-  "name": "Livia Aditria"
+  "name": "erik"
 }
 ```
 
@@ -19,8 +19,8 @@ Response Body Success :
 ```json
 {
   "data": {
-    "username": "ivi",
-    "name": "Livia Aditria"
+    "username": "erik",
+    "name": "erik"
   }
 }
 ```
@@ -41,7 +41,7 @@ Request Body :
 
 ```json
 {
-  "username": "ivi",
+  "username": "erik",
   "password": "rahasia"
 }
 ```
@@ -76,7 +76,7 @@ Request Body :
 
 ```json
 {
-  "name": "Aditria", // optional
+  "name": "erik", // optional
   "password": "new password" // optional
 }
 ```
@@ -86,8 +86,8 @@ Response Body Success :
 ```json
 {
   "data": {
-    "username": "ivi",
-    "name": "Aditria"
+    "username": "erik",
+    "name": "erik"
   }
 }
 ```
@@ -113,8 +113,8 @@ Response Body Success:
 ```json
 {
   "data": {
-    "username": "ivi",
-    "name": "Livia Aditria"
+    "username": "erik",
+    "name": "erik"
   }
 }
 ```
